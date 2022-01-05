@@ -15,7 +15,7 @@ function App() {
           data-icon="octicon-star"
           data-size="large"
           data-show-count={true}
-          aria-label="Star solana-labs/oyster-swap on GitHub"
+          aria-label="Star on GitHub"
         >
           Star
         </GitHubButton>
@@ -23,7 +23,7 @@ function App() {
           href="https://github.com/johnoseni1/A-simple-exchanger-swaping-using-uniswap-pancake-swap/fork"
           data-color-scheme="no-preference: light; light: light; dark: light;"
           data-size="large"
-          aria-label="Fork project-serum/oyster-swap on GitHub"
+          aria-label="Fork on GitHub"
         >
           Fork
         </GitHubButton>
