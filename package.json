@@ -2,6 +2,7 @@
   "name": "Exchanger",
   "version": "0.1.0",
   "private": false,
+  "author": "John Oseni",
   "dependencies": {
     "@craco/craco": "^5.7.0",
     "@project-serum/serum": "^0.13.7",
